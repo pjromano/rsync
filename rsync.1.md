@@ -2,6 +2,19 @@
 
 rsync - a fast, versatile, remote (and local) file-copying tool
 
+## INSTALLATION
+
+```
+I BUILT AND INSTALLED THIS FROM SOURCE:
+    https://github.com/pjromano/rsync/tree/custom-install
+
+I INSTALLED THIS USING THE CUSTOM INSTALL SCRIPT IN THE ABOVE FORK:
+    ./INSTALL.sh
+
+TO UNINSTALL:
+    ./UNINSTALL.sh
+```
+
 ## SYNOPSIS
 
 ```
